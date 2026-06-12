@@ -1,7 +1,7 @@
 # iPhone Sales Analysis — Python EDA Mini Project
 
 <p align="center">
-  <img src="images/Life_cycle.jpeg" alt="Data Analytics Life Cycle" width="420"/>
+  <img src="images/Life_cycle.png" alt="Data Analytics Life Cycle" width="420"/>
 </p>
 
 
